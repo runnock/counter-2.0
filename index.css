@@ -1,0 +1,30 @@
+body {
+    background-image: url("/station.jpg");
+    background-size: cover;
+    max-width: 400px;
+    text-align: center;
+}
+
+#ppl-entered {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.btns {
+    border-radius: 3px;
+    border: none;
+    display: block;
+    margin: 7px auto;
+    padding: 5px 30px;
+    width: 200px;
+    color: white
+}
+
+#increment-btn {
+    background: red;
+}
+
+#save-btn {
+    background: green;
+    
+}
